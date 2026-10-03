@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="assets/profile-title.svg" alt="Systems Engineering — security, robotics, simulation, and software" width="100%">
-
-  <br>
-
-  <img src="assets/background.jpg" alt="Abstract wireframe network" width="100%">
+  <img src="assets/profile-title-clean.svg" alt="Systems Engineering — security, robotics, simulation, and software" width="100%">
 
   <h3>Engineering student at UM6P College of Computing</h3>
   <p>Building dependable systems across software, infrastructure, cybersecurity, simulation, and robotics.</p>
@@ -19,9 +15,25 @@
 
 ## What I’m working on
 
-- **ARCAD:** network-aware multi-UAV research simulation using RotorPy, ROS 2, ns-3, Protobuf, and ZeroMQ.
-- **PHANTOM:** autonomous ground-vehicle prototype developed through the Forgebots Robotics Club.
-- **Cybersecurity:** web-security labs, Capture the Flag competitions, networking, and early bug-bounty practice.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>ARCAD</strong><br><br>
+      A network-aware multi-UAV research platform connecting flight simulation, robotics middleware, and communication modelling.<br><br>
+      <sub>RotorPy · ROS 2 · ns-3 · Protobuf · ZeroMQ</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>PHANTOM</strong><br><br>
+      An autonomous ground-vehicle prototype in active development with the Forgebots Robotics Club.<br><br>
+      <sub>Embedded systems · Vehicle control · Communication</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>CYBERSECURITY</strong><br><br>
+      Building practical web-security experience through PortSwigger labs, CTFs, networking, and bug-bounty study.<br><br>
+      <sub>Web security · Burp Suite · Nmap · CTFs</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <sub>Morocco · Open to internships, remote work, and relocation</sub>
