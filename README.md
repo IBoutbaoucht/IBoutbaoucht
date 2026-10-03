@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-header-v3.svg" alt="Systems Engineering · Cybersecurity · Software &amp; Embedded Systems" width="100%">
+  <img src="assets/profile-header-drawing-v4.svg" alt="Systems Engineering · Cybersecurity · Software &amp; Embedded Systems" width="100%">
 
   <h3>Engineering student at UM6P College of Computing</h3>
   <p>Building dependable systems across software, infrastructure, cybersecurity, and simulation.</p>
