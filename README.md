@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-header.svg" alt="Imad Boutbaoucht — systems engineering, cybersecurity, robotics, and software" width="100%">
+  <img src="assets/github-header.svg" alt="Systems engineering, cybersecurity, robotics, and software" width="100%">
 
   <p><strong>Engineering student at UM6P College of Computing</strong></p>
   <p>Building dependable systems across software, infrastructure, cybersecurity, simulation, and robotics.</p>
@@ -26,13 +26,6 @@
 | **[Aero Simulator 2D](https://github.com/IBoutbaoucht/Aero-Simulator-2D)** | Modular flight simulator with birotor dynamics, Runge–Kutta integration, PID control, and live telemetry | Python, NumPy, Pygame |
 | **[Information Security Labs](https://github.com/IBoutbaoucht/info-sec)** | Reproducible experiments covering web security and defensive analysis | Web security, Linux, Python |
 | **[Bablo Fruits](https://github.com/IBoutbaoucht/blablo-fruits)** | Crop-condition recognition developed for the Local Domotics Competition | Python, YOLOv8, EfficientNet |
-
-## Leadership and community
-
-- President of the **Forgebots Robotics Club** at UM6P.
-- Led the **TTA Competitive Programming Team** from August 2023 to March 2025.
-- Member of the **ACM Student Chapter** and the **African Consulting Club**.
-- Team awards: **3rd place, Capgemini INNOVATHON 2026** and **2nd place, Cyber.AI 2026**.
 
 ## Technical toolkit
 
