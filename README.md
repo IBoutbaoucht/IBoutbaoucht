@@ -1,40 +1,36 @@
 <div align="center">
-  <img src="assets/github-header-clean.svg" alt="Systems engineering, cybersecurity, robotics, and software" width="100%">
+  <img src="assets/profile-header-phrack.png" alt="Systems, security, and robotics" width="100%">
 
-  <p><strong>Engineering student at UM6P College of Computing</strong></p>
+  <p><code>ENGINEERING STUDENT // UM6P COLLEGE OF COMPUTING</code></p>
   <p>Building dependable systems across software, infrastructure, cybersecurity, simulation, and robotics.</p>
 
   <p>
-    <a href="https://iboutbaoucht.github.io/"><img src="https://img.shields.io/badge/Resume-View_online-17384d?style=for-the-badge" alt="Resume"></a>
-    <a href="https://www.linkedin.com/in/imad-boutbaoucht/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://iboutbaoucht.github.io/"><strong>[ RESUME ]</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/imad-boutbaoucht/"><strong>[ LINKEDIN ]</strong></a>
   </p>
 </div>
 
-## Current focus
+---
 
-- **ARCAD** — research platform for network-aware multi-UAV simulation using RotorPy, ROS 2, ns-3, Protobuf, and ZeroMQ.
-- **PHANTOM** — autonomous ground-vehicle prototype developed through the Forgebots Robotics Club.
-- **Cybersecurity** — web-security labs, Capture the Flag competitions, networking, and early bug-bounty practice.
+## `/current`
 
-## Selected work
+```text
+[01] ARCAD
+     network-aware multi-UAV research simulation
+     RotorPy / ROS 2 / ns-3 / Protobuf / ZeroMQ
 
-| Project | Engineering focus | Main technologies |
-|---|---|---|
-| **[GitHop](https://github.com/IBoutbaoucht/GitHop)** | Full-stack discovery platform for GitHub activity, trends, and repositories | TypeScript, React, Node.js, PostgreSQL, BigQuery |
-| **[VMaaS Zero-Touch](https://github.com/IBoutbaoucht/vmaas-zerotouch)** | Automated Ubuntu virtual-machine provisioning and lifecycle operations on VMware ESXi | Go, cloud-init, VMware ESXi |
-| **[Iron Bird CTF](https://github.com/IBoutbaoucht/iron-bird-ctf)** | Fully authored eight-stage ESP32 security challenge with a custom UDP protocol and browser progression map | ESP32, C++, FreeRTOS, UDP, cryptography |
-| **[Aero Simulator 2D](https://github.com/IBoutbaoucht/Aero-Simulator-2D)** | Modular flight simulator with birotor dynamics, Runge–Kutta integration, PID control, and live telemetry | Python, NumPy, Pygame |
-| **[Information Security Labs](https://github.com/IBoutbaoucht/info-sec)** | Reproducible experiments covering web security and defensive analysis | Web security, Linux, Python |
-| **[Bablo Fruits](https://github.com/IBoutbaoucht/blablo-fruits)** | Crop-condition recognition developed for the Local Domotics Competition | Python, YOLOv8, EfficientNet |
+[02] PHANTOM
+     autonomous ground-vehicle prototype
+     developed through the Forgebots Robotics Club
 
-## Technical toolkit
+[03] SECURITY
+     web-security labs / CTFs / networking
+     early bug-bounty practice
+```
 
-**Programming:** `C++` `C` `Python` `Go` `TypeScript`  
-**Systems and infrastructure:** `Linux` `Docker` `Nginx` `VMware ESXi`  
-**Robotics and simulation:** `ROS 2` `ns-3` `MuJoCo` `ESP32` `FreeRTOS`  
-**Backend and data:** `Node.js` `PostgreSQL` `GraphQL` `Google BigQuery`  
-**Security:** `Burp Suite` `Nmap` `Web Security` `CTFs`
+> Curiosity first. Systems before surfaces. Evidence before claims.
 
 <div align="center">
-  <sub>Based in Morocco · Open to internships, remote work, and relocation</sub>
+  <sub>Morocco · Open to internships, remote work, and relocation</sub>
 </div>
