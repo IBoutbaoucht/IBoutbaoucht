@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/profile-title-clean.svg" alt="Systems Engineering · Cybersecurity · Software &amp; Embedded Systems" width="100%">
+  <img src="assets/profile-title-v2.svg" alt="Systems Engineering · Cybersecurity · Software &amp; Embedded Systems" width="100%">
 
   <h3>Engineering student at UM6P College of Computing</h3>
-  <p>Building dependable systems across software, infrastructure, cybersecurity, simulation, and robotics.</p>
+  <p>Building dependable systems across software, infrastructure, cybersecurity, and simulation.</p>
 
   <p>
     <a href="https://iboutbaoucht.github.io/"><strong>[ RESUME ]</strong></a>
@@ -19,18 +19,15 @@
   <tr>
     <td width="33%" valign="top">
       <strong>ARCAD</strong><br><br>
-      A network-aware multi-UAV research platform connecting flight simulation, robotics middleware, and communication modelling.<br><br>
-      <sub>RotorPy · ROS 2 · ns-3 · Protobuf · ZeroMQ</sub>
+      A network-aware multi-UAV research platform connecting flight simulation, robotics middleware, and communication modelling.
     </td>
     <td width="33%" valign="top">
       <strong>PHANTOM</strong><br><br>
-      An autonomous ground-vehicle prototype in active development with the Forgebots Robotics Club.<br><br>
-      <sub>Embedded systems · Vehicle control · Communication</sub>
+      An autonomous ground-vehicle prototype in active development with the Forgebots Robotics Club.
     </td>
     <td width="33%" valign="top">
       <strong>CYBERSECURITY</strong><br><br>
-      Building practical web-security experience through PortSwigger labs, CTFs, networking, and bug-bounty study.<br><br>
-      <sub>Web security · Burp Suite · Nmap · CTFs</sub>
+      Building practical web-security experience through PortSwigger labs, CTFs, networking, and bug-bounty study.
     </td>
   </tr>
 </table>
