@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="assets/profile-header-phrack.png" alt="Systems, security, and robotics" width="100%">
+  <img src="assets/profile-title.svg" alt="Systems Engineering — security, robotics, simulation, and software" width="100%">
 
-  <p><code>ENGINEERING STUDENT // UM6P COLLEGE OF COMPUTING</code></p>
+  <br>
+
+  <img src="assets/background.jpg" alt="Abstract wireframe network" width="100%">
+
+  <h3>Engineering student at UM6P College of Computing</h3>
   <p>Building dependable systems across software, infrastructure, cybersecurity, simulation, and robotics.</p>
 
   <p>
@@ -13,23 +17,11 @@
 
 ---
 
-## `/current`
+## What I’m working on
 
-```text
-[01] ARCAD
-     network-aware multi-UAV research simulation
-     RotorPy / ROS 2 / ns-3 / Protobuf / ZeroMQ
-
-[02] PHANTOM
-     autonomous ground-vehicle prototype
-     developed through the Forgebots Robotics Club
-
-[03] SECURITY
-     web-security labs / CTFs / networking
-     early bug-bounty practice
-```
-
-> Curiosity first. Systems before surfaces. Evidence before claims.
+- **ARCAD:** network-aware multi-UAV research simulation using RotorPy, ROS 2, ns-3, Protobuf, and ZeroMQ.
+- **PHANTOM:** autonomous ground-vehicle prototype developed through the Forgebots Robotics Club.
+- **Cybersecurity:** web-security labs, Capture the Flag competitions, networking, and early bug-bounty practice.
 
 <div align="center">
   <sub>Morocco · Open to internships, remote work, and relocation</sub>

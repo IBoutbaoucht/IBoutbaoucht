@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-labelledby="title desc">
+  <title id="title">Systems Engineering</title>
+  <desc id="desc">Security, robotics, simulation, networking, software, and embedded systems</desc>
+  <defs>
+    <pattern id="paper-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#19362f" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e85d3f"/><stop offset="0.45" stop-color="#d5a12d"/><stop offset="1" stop-color="#19766a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="390" rx="22" fill="#f4f0e6"/>
+  <rect width="1200" height="390" rx="22" fill="url(#paper-grid)"/>
+  <rect x="58" y="42" width="1084" height="3" rx="1.5" fill="url(#accent-line)"/>
+  <text x="60" y="78" fill="#6b675f" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2">COMPUTING MEETS PHYSICAL SYSTEMS</text>
+  <text x="60" y="181" fill="#102c25" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-style="italic" letter-spacing="-2">Systems</text>
+  <text x="60" y="258" fill="#102c25" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">Engineering.</text>
+  <text x="63" y="307" fill="#4e514b" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, sans-serif" font-size="18">Security, robotics, simulation, and software</text>
+  <circle cx="64" cy="344" r="5" fill="#e85d3f"/><circle cx="84" cy="344" r="5" fill="#d5a12d"/><circle cx="104" cy="344" r="5" fill="#19766a"/>
+  <g transform="translate(700,82)" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.7" text-anchor="middle">
+    <g><rect width="132" height="104" rx="17" fill="#fffdf7" stroke="#d7d1c6"/><path d="M66 21l25 10v18c0 17-10 29-25 36-15-7-25-19-25-36V31z" fill="none" stroke="#e85d3f" stroke-width="3"/><path d="M55 51l8 8 16-19" fill="none" stroke="#102c25" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="66" y="96" fill="#57554f">SECURITY</text></g>
+    <g transform="translate(152,0)"><rect width="132" height="104" rx="17" fill="#fffdf7" stroke="#d7d1c6"/><circle cx="44" cy="35" r="8" fill="#d5a12d"/><circle cx="82" cy="28" r="7" fill="#19766a"/><circle cx="91" cy="64" r="8" fill="#e85d3f"/><path d="M50 35h24M82 35l7 21M84 65H58V47" fill="none" stroke="#102c25" stroke-width="4" stroke-linecap="round"/><text x="66" y="96" fill="#57554f">ROBOTICS</text></g>
+    <g transform="translate(304,0)"><rect width="132" height="104" rx="17" fill="#fffdf7" stroke="#d7d1c6"/><path d="M66 31l15 14-15 13-15-13zM51 45H30M81 45h21M42 34l-12-9M90 34l12-9M42 56l-12 9M90 56l12 9" fill="none" stroke="#3d5ca8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="30" cy="25" r="5" fill="#e85d3f"/><circle cx="102" cy="25" r="5" fill="#d5a12d"/><circle cx="30" cy="65" r="5" fill="#19766a"/><circle cx="102" cy="65" r="5" fill="#3d5ca8"/><text x="66" y="96" fill="#57554f">UAV SYSTEMS</text></g>
+    <g transform="translate(0,128)"><rect width="132" height="104" rx="17" fill="#fffdf7" stroke="#d7d1c6"/><path d="M36 31l30 17 30-17M36 31v34l30 17 30-17V31M66 48v34" fill="none" stroke="#19766a" stroke-width="3" stroke-linejoin="round"/><circle cx="36" cy="31" r="5" fill="#e85d3f"/><circle cx="96" cy="31" r="5" fill="#d5a12d"/><circle cx="66" cy="48" r="5" fill="#3d5ca8"/><text x="66" y="96" fill="#57554f">NETWORKS</text></g>
+    <g transform="translate(152,128)"><rect width="132" height="104" rx="17" fill="#fffdf7" stroke="#d7d1c6"/><path d="M51 29L32 48l19 19M81 29l19 19-19 19M72 24L59 72" fill="none" stroke="#3d5ca8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="66" y="96" fill="#57554f">SOFTWARE</text></g>
+    <g transform="translate(304,128)"><rect width="132" height="104" rx="17" fill="#fffdf7" stroke="#d7d1c6"/><rect x="43" y="24" width="46" height="46" rx="7" fill="none" stroke="#102c25" stroke-width="3"/><rect x="55" y="36" width="22" height="22" rx="3" fill="#d5a12d"/><path d="M34 33h9M34 47h9M34 61h9M89 33h9M89 47h9M89 61h9M52 15v9M66 15v9M80 15v9M52 70v9M66 70v9M80 70v9" stroke="#e85d3f" stroke-width="3" stroke-linecap="round"/><text x="66" y="96" fill="#57554f">EMBEDDED</text></g>
+  </g>
+</svg>
