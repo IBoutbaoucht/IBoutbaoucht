@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Systems Engineering · Cybersecurity · Software &amp; Embedded Systems</title>
+  <desc id="desc">A light editorial header with forest-green typography and coral accents.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#173e34" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="#f4f0e6"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <path d="M64 46H1136" stroke="#d8d3c7"/>
+  <path d="M64 46H152" stroke="#d96548" stroke-width="3"/>
+  <text x="64" y="86" fill="#696b61" font-family="Noto Sans Display" font-size="14" font-weight="500" letter-spacing="2">COMPUTING MEETS PHYSICAL SYSTEMS</text>
+  <text x="64" y="171" fill="#153b31" font-family="Noto Sans Display" font-size="50" font-weight="500"><tspan font-family="Noto Serif Display" font-size="54" font-style="italic" font-weight="500">Systems Engineering</tspan><tspan fill="#d96548">&#160; · &#160;</tspan><tspan>Cybersecurity</tspan><tspan fill="#d96548">&#160; ·</tspan></text>
+  <text x="64" y="249" fill="#153b31" font-family="Noto Sans Display" font-size="58" font-weight="600" letter-spacing="-.6">Software &amp; Embedded Systems</text>
+  <path d="M64 293H1136" stroke="#d8d3c7"/>
+</svg>
