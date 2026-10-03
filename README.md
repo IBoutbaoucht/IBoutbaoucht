@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-header.svg" alt="Systems engineering, cybersecurity, robotics, and software" width="100%">
+  <img src="assets/github-header-clean.svg" alt="Systems engineering, cybersecurity, robotics, and software" width="100%">
 
   <p><strong>Engineering student at UM6P College of Computing</strong></p>
   <p>Building dependable systems across software, infrastructure, cybersecurity, simulation, and robotics.</p>
