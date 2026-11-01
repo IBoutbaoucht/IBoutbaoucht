@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title description">
+  <title id="title">Imad Boutbaoucht — systems engineering, security, and software</title>
+  <desc id="description">An obsidian technical folio with an engraved IB monogram and six selected engineering projects connected through a systems topology.</desc>
+
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111114"/>
+      <stop offset="0.55" stop-color="#0c0d10"/>
+      <stop offset="1" stop-color="#090a0c"/>
+    </linearGradient>
+    <radialGradient id="sealGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#b87348" stop-opacity="0.18"/>
+      <stop offset="0.55" stop-color="#b87348" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#b87348" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="microgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#f1e8d8" stroke-opacity="0.025" stroke-width="1"/>
+    </pattern>
+    <pattern id="engraving" width="36" height="18" patternUnits="userSpaceOnUse">
+      <path d="M-9 9 Q0 0 9 9 T27 9 T45 9" fill="none" stroke="#c17a50" stroke-opacity="0.18" stroke-width="0.8"/>
+      <path d="M-9 13 Q0 4 9 13 T27 13 T45 13" fill="none" stroke="#6da9a4" stroke-opacity="0.12" stroke-width="0.7"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <style>
+      .register { font: 500 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 3px; }
+      .label { font: 600 9px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2px; }
+      .project { font: 600 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .role { font: 500 9px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.5px; }
+      .body { font: 400 14px Arial, Helvetica, sans-serif; }
+      .serif { font-family: Georgia, 'Times New Roman', serif; }
+      .signal { animation: signal 7s ease-in-out infinite; }
+      .seal-ring { transform-origin: 214px 151px; animation: breathe 9s ease-in-out infinite; }
+      @keyframes signal { 0%, 100% { opacity: .28; } 48%, 56% { opacity: 1; } }
+      @keyframes breathe { 0%, 100% { opacity: .42; } 50% { opacity: .72; } }
+      @media (prefers-reduced-motion: reduce) {
+        .signal, .seal-ring { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="440" rx="18" fill="url(#surface)"/>
+  <rect width="1200" height="440" rx="18" fill="url(#microgrid)"/>
+  <rect x="14" y="14" width="1172" height="412" rx="12" fill="none" stroke="#e9dfcf" stroke-opacity="0.18"/>
+  <rect x="26" y="26" width="1148" height="388" rx="8" fill="none" stroke="#e9dfcf" stroke-opacity="0.08"/>
+
+  <text x="48" y="54" class="register" fill="#6da9a4">OBSIDIAN SYSTEMS / PROFILE FOLIO</text>
+  <text x="1150" y="54" class="register" fill="#978f85" text-anchor="end">EDITION 01 · RABAT</text>
+  <line x1="48" y1="69" x2="1152" y2="69" stroke="#e9dfcf" stroke-opacity="0.16"/>
+
+  <g aria-label="IB monogram seal">
+    <circle cx="214" cy="151" r="103" fill="url(#sealGlow)"/>
+    <circle cx="214" cy="151" r="74" fill="url(#engraving)" stroke="#c17a50" stroke-opacity="0.48"/>
+    <circle cx="214" cy="151" r="61" fill="#0c0d10" stroke="#e9dfcf" stroke-opacity="0.19"/>
+    <circle cx="214" cy="151" r="52" fill="none" stroke="#6da9a4" stroke-opacity="0.38" stroke-dasharray="1 8" stroke-linecap="round"/>
+    <g class="seal-ring" fill="none" stroke="#c17a50" stroke-opacity="0.62">
+      <ellipse cx="214" cy="151" rx="94" ry="29" transform="rotate(-26 214 151)"/>
+      <ellipse cx="214" cy="151" rx="94" ry="29" transform="rotate(26 214 151)"/>
+    </g>
+    <text x="214" y="172" class="serif" font-size="62" font-style="italic" fill="#f0e7d8" text-anchor="middle">IB</text>
+    <circle cx="214" cy="151" r="5" fill="#c17a50"/>
+  </g>
+
+  <text x="48" y="294" class="serif" font-size="37" font-weight="600" fill="#f0e7d8">Imad Boutbaoucht</text>
+  <line x1="48" y1="312" x2="448" y2="312" stroke="#c17a50" stroke-width="2"/>
+  <text x="48" y="340" class="register" fill="#6da9a4">SYSTEMS · SECURITY · SOFTWARE</text>
+  <text x="48" y="369" class="body" fill="#b7b0a6">Building dependable systems across infrastructure,</text>
+  <text x="48" y="390" class="body" fill="#b7b0a6">simulation, embedded security, and software.</text>
+
+  <line x1="493" y1="91" x2="493" y2="392" stroke="#e9dfcf" stroke-opacity="0.16"/>
+  <text x="531" y="108" class="serif" font-size="18" font-style="italic" fill="#f0e7d8">Selected systems</text>
+  <text x="1152" y="108" class="label" fill="#8b847b" text-anchor="end">PUBLIC WORK / 06</text>
+  <line x1="531" y1="122" x2="1152" y2="122" stroke="#e9dfcf" stroke-opacity="0.15"/>
+
+  <g aria-label="Selected projects topology">
+    <path d="M557 151H611 M557 196H611 M557 241H611 M557 286H611 M557 331H611 M557 376H611" fill="none" stroke="#c17a50" stroke-width="1.4"/>
+    <line x1="557" y1="151" x2="557" y2="376" stroke="#6da9a4" stroke-opacity="0.42"/>
+    <circle cx="557" cy="151" r="5" fill="#0c0d10" stroke="#c17a50" stroke-width="2"/>
+    <circle cx="557" cy="196" r="5" fill="#0c0d10" stroke="#6da9a4" stroke-width="2"/>
+    <circle cx="557" cy="241" r="5" fill="#0c0d10" stroke="#c17a50" stroke-width="2"/>
+    <circle cx="557" cy="286" r="5" fill="#0c0d10" stroke="#6da9a4" stroke-width="2"/>
+    <circle cx="557" cy="331" r="5" fill="#0c0d10" stroke="#c17a50" stroke-width="2"/>
+    <circle cx="557" cy="376" r="5" fill="#0c0d10" stroke="#6da9a4" stroke-width="2"/>
+    <circle class="signal" cx="557" cy="151" r="10" fill="#c17a50" opacity="0.2" filter="url(#softGlow)"/>
+
+    <text x="630" y="149" class="project" fill="#ece3d5">vmaas-zerotouch</text>
+    <text x="630" y="165" class="role" fill="#8f8880">INFRASTRUCTURE AUTOMATION</text>
+    <text x="1152" y="149" class="label" fill="#c17a50" text-anchor="end">PROVISION</text>
+
+    <text x="630" y="194" class="project" fill="#ece3d5">iron-bird</text>
+    <text x="630" y="210" class="role" fill="#8f8880">EMBEDDED SECURITY</text>
+    <text x="1152" y="194" class="label" fill="#6da9a4" text-anchor="end">CHALLENGE</text>
+
+    <text x="630" y="239" class="project" fill="#ece3d5">aero-simulator-2d</text>
+    <text x="630" y="255" class="role" fill="#8f8880">FLIGHT DYNAMICS &amp; CONTROL</text>
+    <text x="1152" y="239" class="label" fill="#c17a50" text-anchor="end">SIMULATE</text>
+
+    <text x="630" y="284" class="project" fill="#ece3d5">GitHop</text>
+    <text x="630" y="300" class="role" fill="#8f8880">FULL-STACK DISCOVERY</text>
+    <text x="1152" y="284" class="label" fill="#6da9a4" text-anchor="end">DISCOVER</text>
+
+    <text x="630" y="329" class="project" fill="#ece3d5">info-sec-labs</text>
+    <text x="630" y="345" class="role" fill="#8f8880">REPRODUCIBLE SECURITY STUDY</text>
+    <text x="1152" y="329" class="label" fill="#c17a50" text-anchor="end">VERIFY</text>
+
+    <text x="630" y="374" class="project" fill="#ece3d5">blablo-fruits</text>
+    <text x="630" y="390" class="role" fill="#8f8880">COMPUTER VISION PROTOTYPE</text>
+    <text x="1152" y="374" class="label" fill="#6da9a4" text-anchor="end">RECOGNIZE</text>
+  </g>
+
+  <text x="48" y="416" class="label" fill="#716b64">BUILD · TEST · DOCUMENT · VERIFY</text>
+  <text x="1152" y="416" class="label" fill="#716b64" text-anchor="end">GITHUB.COM/IBOUTBAOUCHT</text>
+</svg>
