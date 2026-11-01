@@ -7,11 +7,19 @@
 
 ---
 
-## What I'm working on
+## Current direction
 
-- **ARCAD** — research platform for network-aware multi-UAV simulation.
-- **PHANTOM** — autonomous ground-vehicle prototype with the Forgebots Robotics Club.
-- **Cybersecurity** — web-security labs, Capture the Flag competitions, networking, and early bug-bounty practice.
+**Networked & distributed systems**<br>
+Dependable communication, coordination, observability, and reproducible experimentation.
+
+**Systems & infrastructure**<br>
+Operating systems, virtualization, automation, and reliable software foundations.
+
+**Security & embedded systems**<br>
+Secure software, protocol and firmware analysis, and practical web security.
+
+**Robotics & cyber-physical systems**<br>
+Autonomy, real-time integration, and communication-aware physical systems.
 
 <div align="center">
   <sub>Based in Morocco · Open to internships, remote work, and relocation</sub>
